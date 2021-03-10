@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  font-size: 25px;
+  font-family: 微軟正黑體;
+  letter-spacing: 3px;
+  line-height: 200%;
+}
+.btn{
+  width: 2px
+  display: inline;
+  margin-top: 10px;
+  font-size: 30px;
+  color: #198a8a;
+  background-color: #c3e3e5;
+  font-size: 20px;
+  font-family: 微軟正黑體;
+}
+.topic{
+  text-align: center;
+  font-size: 30px;
+  font-family: 微軟正黑體;
+  color: #009E9E;
+}
+  
